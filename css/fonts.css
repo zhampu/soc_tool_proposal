@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Pacifista";
+    src: url("fonts/Pacifista-Semibold.otf") format("opentype");
+
+
+}
+
+@font-face {
+    font-family: "Pacifista-Italic";
+    src: url("fonts/Pacifista-Medium-Italic.otf") format("opentype");
+}
+
+
+/*// https://github.com/uswds/public-sans*/
+
+/*// Public Sans is licensed under the SIL Open Font License, Version 1.1*/
+
+@font-face {
+    font-family: 'Public Sans', sans-serif;
+    src: url("fonts/Public-Sans-Roman-VF.ttf") format("truetype");
+
+}
+
+@font-face {
+    font-family: 'Public Sans Italic', sans-serif;
+    src: url("fonts/Public-Sans-Italic-VF.ttf") format("truetype");
+
+}
