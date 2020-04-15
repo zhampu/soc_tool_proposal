@@ -78,5 +78,5 @@ Performance
 
 ## images example
 
-![image_caption](images/1.jpg)
+![image_caption](images/1.JPG)
 *a guy in grece pplaying hallodrom.*
