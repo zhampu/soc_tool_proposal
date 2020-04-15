@@ -4,8 +4,8 @@
   margin-right: 10px;
 }
 
-.title {
-  font-family: "Pacifista";
+#cover {
+  font-family: 'Till';
   position: fixed;
   top: 10px;
   z-index: 5;
@@ -20,42 +20,16 @@
   background: white;
 }
 
-.subtitle {
-  font-family: Pacifista;
-  position: fixed;
-  display: block;
-  line-height: 0;
-  z-index: 6;
-  font-size: 0.8em;
-  transition: 0.8s;
-  transform: rotate(78deg);
-  bottom: 40vh;
-  //font-size: 3em;
-  left: 10px;
-  transform: scale(3);
-  transform-origin: top left;
 
+#cover {
+  display: none;
 }
-
-.movimiento {
-  transform: rotate(-90deg);
-  transform-origin: 0% 0%;
-  bottom: -30px;
-  left: 0;
-
-}
-
 
 #main {
   font-family: "Public Sans";
-  font-size: 0.8em;
   padding-left: 0;
-  padding-top: 100px;
-  position: fixed;
-  width: 20vw;
   line-height: 1.2;
   transition: 0.2s;
-  opacity: 0;
   z-index: 15;
 
 
@@ -88,17 +62,18 @@
 
 
 .content-article {
-  margin-left: 10vw;
-  margin-right: 10px;
+
 
   H1 {
     font-size: 1.9em;
-    font-family: Pacifista;
+    font-family: 'Till';
+    font-weight: normal;
   }
 
   H2 {
     font-size: 1.9em;
-    font-family: Pacifista;
+    font-family: 'Till';
+    font-weight: normal;
   }
 
   ul,
@@ -148,8 +123,9 @@
   }
 
   strong {
-    font-family: Pacifista;
+    font-family: 'Till';
     display: inline-block;
+    font-weight: normal;
   }
 
   .footnote-counter {
@@ -195,9 +171,6 @@
   }
 }
 
-#circle2 {
-  margin-left: auto;
-}
 
 .fade {
   animation-name: fade;

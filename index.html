@@ -8,94 +8,43 @@
     <link href="" hreflang="fr" rel="alternate">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
     <meta content="true" name="HandheldFriendly">
-    <title>Hybrid Public Spaces: The Right to the Hybrid City</title>
+    <title>Station of Commons</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
-
     <script src="js/main.js" type="module"></script>
+    <script src="js/Markdown2html.js" type="module"></script>
     <script type="module" src="js/handlers.js"></script>
-
     <link href="css/pagedjs/reset.css" rel="stylesheet" type="text/css">
     <link href="css/pagedjs/pagedjs.css" rel="stylesheet" type="text/css">
     <link id="style-screen" href="css/style-screen.css" rel="stylesheet" type="text/css">
     <link href="css/fonts.css" rel="stylesheet" type="text/css">
-
     <script src="js/vendor/jquery-library-3.1.1.js"></script>
-    <script src="js/vendor/espacefine.min.js"></script>
     <script src="js/vendor/markdown-it.min.js"></script>
     <script src="js/vendor/markdown-it-container.min.js"></script>
     <script src="js/vendor/markdown-it-footnote.min.js"></script>
-    <script>
 
-        var md = window.markdownit()
-                .use(markdownitFootnote)
-                .use(markdownitContainer),
-            warning;
-
-        $.get("Thesis.md", function (data) {
-            $('#content-markdown').html(md.render(data));
-
-
-        });
-
-        // wait for the page to load
-        var loaded = new Promise(function (resolve, reject) {
-            window.onload = function () {
-                resolve();
-            }
-        });
-
-        // Config pagedjs to wait till the text has been added
-        window.PagedConfig = {
-            before: () => {
-                return loaded.then(() => {
-                    document.body.innerHTML = html;
-                })
-            }
-        }
-
-    </script>
 <body>
-<a class="mobile-menu" id="open-menu">Table of Content</a>
-<h1 class="title"><span style="color:indigo ">Hybrid</span> <span style="color: red">Public</span> <span
-        style="color: gold">Spaces</span></h1>
-<div class="subtitle">
-    <h2 class="">The Right to the Hybrid City</h2>
-</div>
+
 
 <div class="wrapper">
 
 
-    <svg viewBox="0 0 100 100">
-        <circle class="circulo" cx="0" cy="50" id="circulo" r="40" stroke-dasharray="0.5" stroke-width="0.02"></circle>
-        <rect class="circle" height="100" id="circle" stroke-dasharray="0.5" stroke-width="0.02"
-              transform="rotate(100,10,10)"
-              width="100"></rect>
-        <rect class="circle2" height="20" id="circle2" stroke-dasharray="0.5" stroke-width="0.02"
-              transform="rotate(340,67,17)"
-              width="5"></rect>
-        <rect class="circle3" height="90 " id="circle3" stroke-dasharray="0.5" stroke-width="0.02"
-              transform="rotate(340,129,17)"
-              width="56"></rect>
-
-    </svg>
-
-    <ul id="main">
-    </ul>
     <article>
 
+        <div id="cover">
+            <h1>Station of Commons</h1>
+            <h3>Exploring the potential of open source technologies in commoning practices</h3>
+
+
+        </div>
+        <ul id="main">
+        </ul>
         <div class="content-article" id="content-markdown">
         </div>
     </article>
 
-
-    <div class="pourcentage"><span class="pourcentage-number">0</span> %</div>
     <div class="notes-images"></div>
 
-
-    <!-- <div id="credits"
-    <h2 class="paper-author font-title">Juan Gomez</h2>
-  </div> -->
 
 </div>
 </body>

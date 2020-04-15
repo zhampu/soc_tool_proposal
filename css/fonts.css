@@ -1,19 +1,14 @@
-@font-face {
-    font-family: "Pacifista";
-    src: url("fonts/Pacifista-Semibold.otf") format("opentype");
-
-
-}
+/* Till Normal by Pauline le Pape*/
 
 @font-face {
-    font-family: "Pacifista-Italic";
-    src: url("fonts/Pacifista-Medium-Italic.otf") format("opentype");
+    font-family: 'Till';
+    src: url("fonts/Till-Normal.otf") format("opentype");
+    font-weight: normal;
 }
 
+/* https://github.com/uswds/public-sans*/
 
-/*// https://github.com/uswds/public-sans*/
-
-/*// Public Sans is licensed under the SIL Open Font License, Version 1.1*/
+/* Public Sans is licensed under the SIL Open Font License, Version 1.1*/
 
 @font-face {
     font-family: 'Public Sans', sans-serif;

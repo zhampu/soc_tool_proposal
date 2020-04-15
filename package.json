@@ -1,7 +1,7 @@
 {
-  "name": "design-thesis-paged.js",
+  "name": "Paged.js-CV",
   "version": "1.0.0",
-  "description": "Using Paged.js to create a website and a pdf file for a design thesis",
+  "description": "Using Paged.js to create a website and a pdf file for a CV",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -1,5 +1,5 @@
 
-# Hybrid-Public-Space-Template
+# Station of Commons proposals tool
 A website template for passing Markdown to Html and having the footnotes as  side notes
 example: http://juangomez.co/hybridpublicspaces/
 
