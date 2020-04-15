@@ -57,10 +57,13 @@ We are still in the early phase of development, However, departing from our wide
 ## Keywords
 
 Commons
+Commoning practice
 Temporalities
 Space
 Digital
+Post-Digital
 Network
+Cyberfeminism
 Algorithm
 Open Source
 Education
