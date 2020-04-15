@@ -74,3 +74,9 @@ Performance
 | Development & conception of the infrastructure -P2P Platform |         |       | 400        |                |
 | Transportation                                               |         |       |            |                |
 | Personnel costs ( 2 people)                                  |         |       |            |                |
+
+
+## images example
+
+![image_caption](images/1.jpg)
+*a guy in grece pplaying hallodrom.*
