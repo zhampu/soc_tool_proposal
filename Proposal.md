@@ -1,7 +1,7 @@
 # Station of Commons
 ### An ongoing Collaborative initiative by Gregoire Rousseau and Juan Gomez
 
-Adding text
+Adding text with Hackmd
 
 Station of Commons  investigates the possibilities of technology and its reappropiation within public space.  The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications.  What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment  situated in time and space unique to its actor.  A Station of Commons operates as easily integrable on-line platform for sharing local resources.  Resources as commons integrate the ideas of shared data, open source practices, artefacts and real time broadcast.  The sustainability of exchange, the ways they interoperate, the ecologies of interaction between the Stations of Commons produce provocations for a better collective understanding on how the Commons are in constant flux and also at risk.
 
