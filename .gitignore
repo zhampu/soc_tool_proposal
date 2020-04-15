@@ -2,3 +2,4 @@
 /.idea/
 /node_modules/
 /pagedjs-template-3.iml
+.DS_Store
