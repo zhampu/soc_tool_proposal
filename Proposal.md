@@ -5,16 +5,18 @@ Station of Commons  investigates the possibilities of technology and its reappro
 
 A Station of Commons connects and communicates with other Stations of Commons over Internet without its hegemonic agency.  Internet infrastructure serves only as practical protocol of communication between stations and not a centralized server concentrating and accumulating power.   Each Station depends on its own means of production, way of thinking, learning and sharing.  This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The exhibition operates as a vibrant thinking space dedicated for workshops, performances and critical discussions around the practice of commoning and open technologies.
 
-## Project History
+> [name=Juan Gomez]Make this shorter
+> 
 
-In 2019, Juan Gomez presented a master thesis for the Master Media Design at HEAD - Genève titled: “Hybrid Public Spaces: The Right to the Hybrid City”, In which he explored the idea of using technological means to experiment new participatory methods for the population in Switzerland. This project was followed up by Decisions Architecture project mentored by Gordan Savičić and Dominic Robson.
+## What is Station of Commons?
+> [name=Juan Gomez]Definitions 
+>- Inquiry on the possibilities of technology and its reappropiation within public space
+>- Panel talks with other actors questioning commons and technology.
+possible invited guests: Stavros Stavrides, Nora Sternfeld, Selena Savičić, Felix Stalder, Mazi, Panayotis Antoniadis (http://nethood.org/), Cristina Cochior (Algolit, Varia).
+>- The technology as a space for data storing, data processing, data broadcast, to produce respectively an space of knowledge, a performative space, a social space.
+>- Help decentralize the current broadcasting methods and provice technical support to install the nodes of the station of commons via tutorials.
 
-Gregoire and Juan met during the UdK summer school 2019 in Berlin where the idea of Commons was very much brought forward in the context of architecture. We had the chance to exchange and discuss thoughts on the subject matter together with Stavros Stavrides (Architect, activist, and Professor at the School of Architecture, National Technical University of Athens, Greece) both within a collective and later on at the personal relation level. We learned that concrete social realities manifests and unfold their potentialities within their spaces of activities. Political subjectivation operates together with spatial transformations, and the practice of Commoning as means of reappropiation. 
-
-As the discussion developed,  we could not help thinking: what if the space would not be situated in the framework of architecture but in the context of technology within society, what if commoning technology would operate as a mean of emancipation by reappropriation of the algorithm ?
-This moment was the original spark for Station of Commons; an inquiry on the possibilities of technology and its reappropiation within public space
-
-We realized then that an operative space would match the definition for a station:
+Definition of a station:
 
 1. A situated space for arrival and departure
 2. A specific location connected to other locations by a transparent network
@@ -23,27 +25,27 @@ We realized then that an operative space would match the definition for a statio
 5. Event based temporality
 6. Audience as knowledgeable passengers
 
+## Project History
+
+Gregoire and Juan met during the UdK summer school 2019 in Berlin where the idea of Commons was very much brought forward in the context of architecture. We had the chance to exchange and discuss thoughts on the subject matter together with Stavros Stavrides (Architect, activist, and Professor at the School of Architecture, National Technical University of Athens, Greece) both within a collective and later on at the personal relation level. We learned that concrete social realities manifests and unfold their potentialities within their spaces of activities. Political subjectivation operates together with spatial transformations, and the practice of Commoning as means of reappropiation.As the discussion developed,  we could not help thinking: what if the space would not be situated in the framework of architecture but in the context of technology within society, what if commoning technology would operate as a mean of emancipation by reappropriation of the algorithm ?
+This moment was the original spark for Station of Commons; an inquiry on the possibilities of technology and its reappropiation within public space
+
+
+> [name=Juan Gomez]Put in the end in a story mode and bio and Make this shorter
+
+
 ## Subjects to explore
 
 1. The technology as a space for data storing, data processing, data broadcast, to produce respectively an space of knowledge, a performative space, a social space.
 
 2. The research on material or equipment was simple as we use RaspberryPi with various Linux distribution, the open source community provides repositories to support our goals; free and open source, easy to use and monitor, networking tools, multimedia possibility, programming languages, General Purpose Input Output, security, ease to impement with Arduino or any other digitally connected interface such as MIDI, DMX or self design devices.  The raspberryPi can both process and broadcast data; this aspect is very important for performance being sound or panel talk.
 
-3. Even if the project just starts, we would like to note that the process of realization would not have advanced that far if we would not have heard encouragements from other colleagues and art related public institutions. In that sense, our initiative works to trigger interest.
+3. Difficulties to translate architecture/space related concepts into art and technology.
 
-4. Difficulties to translate architecture/space related concepts into art and technology.
+4. A reappropriation is never total, otherwise it would be a mere copy. The new production must modify, détourne, work with the subject matter. 
 
-5. A reappropriation is never total, otherwise it would be a mere copy. The new production must modify, détourne, work with the subject matter. 
-
-6. “Technology suggests the hand...” Quinn Latimer documenta14 reader.  The technological space operates as a platform to develop a new practice of 
-commoning by “using the hand” on technology to produce a new discourse on open and public technology. 
-
-7. Panel talks with other actors questioning commons and technology.
-possible invited guests: Stavros Stavrides, Nora Sternfeld, Selena Savičić, Felix Stalder, Mazi, Panayotis Antoniadis (http://nethood.org/), Cristina Cochior (Algolit, Varia).
 
 ## Research Questions
-
-We are still in the early phase of development, However, departing from our wide notion, or already concept, to produce a research on what may be the position of technology within the framework of Commoning and reappropiation of space, we had to face, and engage with the following questions:
 
 1. How to think a temporally multi-dimensional space ? 
 2. How to define the precise subject matter within technological space taken into account the different temporalities ?
@@ -52,21 +54,16 @@ We are still in the early phase of development, However, departing from our wide
 5. And when communication over digital networks are permanently available, or event based in relation to art context ?
 6. What implies temporality in Commoning, specifically when communities operate on-line ?
 
-## Keywords
 
-Commons
-Commoning practice
-Temporalities
-Space
-Digital
-Post-Digital
-Network
-Cyberfeminism
-Algorithm
-Open Source
-Education
-Exhibition
-Performance
+## Objectives
+1. two events with european scope
+
+> [name=Juan Gomez]to add still concrete objectives 
+> 
+
+## Communication plan
+
+- Use Mastodon federated network and the instagram channel of peers
 
 ## Budget
 
