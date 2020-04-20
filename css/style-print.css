@@ -16,6 +16,19 @@
         }
     }
 
+    @page :nth(3) {
+        @bottom-left {
+            content: none;
+        }
+        @bottom-center {
+            content: none;
+        }
+        @bottom-right {
+            content: none;
+        }
+    }
+
+
     @page :blank {
         @bottom-left {
             content: none;
@@ -154,14 +167,28 @@
     }
 
     th {
-
-
         text-align: left;
+    }
+
+    tr {
+        margin-top: 15px;
+
     }
 
     li {
         margin-bottom: 15px;
     }
+
+    p strong {
+        page-break-inside: avoid;
+
+    }
+
+    table {
+
+        border-spacing: 10px;
+    }
+
 
 }
 
