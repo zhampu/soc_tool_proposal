@@ -121,13 +121,18 @@ https://www.facebook.com/pg/myosclub/
 
 ### Planned invited Artists:
 
-- **Svetlana Maras**, EMS studio in Radio Belgrade.
-- **Mathias Itch**, accoustic instruments player from Toulouse, France.
-- **Various sound** artist from Chronou Art Center in Shanghai
-- **Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
-- **Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
-- **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
-- **Heta Bilaletdin**, plays elctronic down tempo and lyrics. She is part of band Olympia Splendid.
+**Svetlana Maras**, EMS studio in Radio Belgrade.
+
+**Mathias Itch**, accoustic instruments player from Toulouse, France.
+
+**Various sound** artist from Chronou Art Center in Shanghai
+
+**Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
+
+**Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
+**Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
+
+**Heta Bilaletdin**, plays elctronic down tempo and lyrics. She is part of band Olympia Splendid.
 
 ### Support to Communities:
 
