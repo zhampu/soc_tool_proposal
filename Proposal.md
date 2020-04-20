@@ -1,5 +1,5 @@
 ## Station of Commons
-### An ongoing Collaborative initiative by Gregoire Rousseau/Helsinki and Juan Gomez/Geneva
+### An ongoing Collaborative initiative by Gregoire Rousseau (Helsinki) and Juan Gomez (Geneva)
 
 Station of Commons  investigates **the possibilities of reappropriating technology within public space**. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?
 
