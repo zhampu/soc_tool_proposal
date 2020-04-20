@@ -16,26 +16,31 @@ Each Station depends on its own means of production, way of thinking, learning a
 
 ## Subjects to explore
 1. A reappropriation is never total, otherwise it would be a mere copy. The new production must modify, détourne, work with the subject matter. 
-2. The research on material or equipment was simple as we use RaspberryPi with various Linux distribution, free and open source software.
+2. The research on material to use RaspberryPi with various Linux distribution, and open source software.
 3. The visual narratives of tutorials as ways of sharing contextualized practical and theoretical concepts.
 4. The "gentrification" of software production and their relationship to contemporary architectural narratives.
 
 ## Research Questions
 1. How to think a temporally multi-dimensional space ? 
 2. How to define the precise subject matter within technological space taken into account the different temporalities ?
-4. What is a critical practice of digital space in terms of labor, in terms of relation to institutions, in terms of radical political position ?
+4. What is a critical practice of digital space in terms of labor,relation to institutions, radical political position ?
 
 
+Up coming events:
 
+24 April:
+
+Ano:
+Band 
 
 ## Communication plan
 
 Station of commons explores the agency of shared information trough an event based temporality and considers the audience as knowledgeable passenger.
 Station of commons will communicate on its live broadcasts, 2 weeks before their streaming and release tutorials on the same day of their publishing.They will be posted in following E-mail listings:
 - our own international academic and profesional networks,
-- Algolit, 
-- Spectre, 
-- NetTime. 
+- Algolit
+- Spectre
+- NetTime
 
 They will also be published in a dedicated channel in Mastodon social network and Twitter and from there re-posted in the personal social networks of our peers.
 
@@ -67,7 +72,7 @@ http://rousseau.fi
 Station of Commons was featured in YLE news among the first organization to organize live event during Korona epidemy:
 https://yle.fi/uutiset/3-11269388
 
-=> Release of Station of Commons statement text.
+=> Release of Station of Commons of first situated tutorial.
 
 **Samuli Tanner:**
 He is one of the leading figure of electronic music in Finland. Samuli is both talented on accoustic instrument as on digital devices. Beside alternative sound practice, his most known bands include Dubstep/Down tempo "Clouds" duo with Evil Stöö, and electro folk band "Tiuu Helinä" signed on ElCamino record label. 
@@ -83,7 +88,7 @@ Marjatan puisto is Samuli Kytö solo project. Samuli is very active in Helsinki 
 
 -- Second live on 3rd April 2020: 
 
-=> Release of Station of Commons text:  **Closing Spaces, opening new ones** .
+=> Release of Station of Commons situated tutorial:  **Closing Spaces, opening new ones** .
 
 **Konstantinos Chinis(GR)**
 Performed from Athens, Konstaantinos is professional cello player. He performed on electro acoustic string instrument Halldorophone. halldorophones  is designed by 
@@ -115,6 +120,9 @@ We are working with:
 - Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
 - MYOS collective to host their live DJ event, and possible radio broadcast station.
 
+Upcpming:
+
+24th April 2020
 
 ## Budget
 
