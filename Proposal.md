@@ -30,16 +30,14 @@ Each Station depends on its own means of production, way of thinking, learning a
 
 Station of commons explores the agency of shared information trough an event based temporality and considers the audience as knowledgeable passenger.
 Station of commons will communicate on its live broadcasts, 2 weeks before their streaming and release tutorials on the same day of their publishing.They will be posted in following E-mail listings:
-- our own international academic and profesional networks,
-- Algolit
-- Spectre
-- NetTime
+our own international academic and profesional networks,
+**Algolit**, **Spectre**, **NetTime**
 
 They will also be published in a dedicated channel in Mastodon social network and Twitter and from there re-posted in the personal social networks of our peers.
 
-Mastodon: stationofcommons@mastodon.social
+**Mastodon:** stationofcommons@mastodon.social
 
-Twitter: https://twitter.com/sofcommons
+**Twitter:** [twitter.com/sofcommons](https://twitter.com/sofcommons)
 
 We ask participating artists to promote the events by posting on their own social media accounts, FB, instagram...
 
@@ -58,14 +56,14 @@ Grégoire is artist and educator based between Helsinki and Paris. He is graduat
 In 2001, he founded electronic music record label Tuulanauhat; in 2014, he co-founded Rabrab Press with Sezgin Boynik, Journal for Political and Formal Inquiries in Arts. In 2018, he authored the publication “Learning from electric energy in the arts, Knowledge happens together”; in 2020 he initiated Station of Commons a platform of commoning practices within technological space. 
 http://rousseau.fi
 
-**Station of Commons:**
+**Station of Commons past events:**
 
--- **Launch of Station of Commons with live audio stream on 20 March 2020:**
+### Launch of Station of Commons with live audio stream on 20 March 2020:
 
 Station of Commons was featured in YLE news among the first organization to organize live event during Korona epidemy:
-https://yle.fi/uutiset/3-11269388
+[https://yle.fi/uutiset/3-11269388](https://yle.fi/uutiset/3-11269388)
 
-=> Release of Station of Commons of first situated tutorial.
+**Release of first situated tutorial.**
 
 **Samuli Tanner:**
 He is one of the leading figure of electronic music in Finland. Samuli is both talented on accoustic instrument as on digital devices. Beside alternative sound practice, his most known bands include Dubstep/Down tempo "Clouds" duo with Evil Stöö, and electro folk band "Tiuu Helinä" signed on ElCamino record label. 
@@ -79,9 +77,9 @@ Sara plays slow tempo techno music with self made audio instruments. Sara is par
 **Marjatan puisto:**
 Marjatan puisto is Samuli Kytö solo project. Samuli is very active in Helsinki experimental electronic music scene. His practice varies from soft up beat melodies to tape loop experimentations.  
 
--- Second live on 3rd April 2020: 
+### Second live on 3rd April 2020: 
 
-=> Release of Station of Commons situated tutorial:  **Closing Spaces, opening new ones** .
+Release of Station of Commons situated tutorial:  **Closing Spaces, opening new ones**.
 
 **Konstantinos Chinis(GR)**
 Performed from Athens, Konstaantinos is professional cello player. He performed on electro acoustic string instrument Halldorophone. halldorophones  is designed by 
@@ -113,15 +111,36 @@ We are working with:
 - Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
 - MYOS collective to host their live DJ event, and possible radio broadcast station.
 
-Upcpming:
+Upcoming:
 
 24th April 2020:
 
-Ano:
-Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus.
+**Ano:**
+Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus, performed from their studio in Helsinki.
 
 
-Taneli Viljanen
+**Taneli Viljanen:**
+Taneli Viljanen is a Finnish artist working mainly with words and sound. They have previously published three tapes of music and four books of experimental fiction, performed from their studio in Rovaniemi.
+
+**Francois Bianco:**
+Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influenced by late 90s techno music. His performance gathers live acts togehter with DJ sets, performed from their studio in Paris.
+
+**MYOS collective:**
+MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki.
+https://www.facebook.com/pg/myosclub/
+
+Planned invited Artists:
+
+- **Svetlana Maras**, EMS studio in Radio Belgrade.
+- **Mathias Itch**, accoustic instruments player from Toulouse, France.
+- **Various sound** artist from Chronou Art Center in Shanghai
+- **Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
+- **Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
+- **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
+- **Heta Bilaletdin**, plays down tempo and lyric together with 
+
+
+
 ## Budget
 
 | Goal                                                                                            | Object                                         | Price | units | total  |
@@ -134,4 +153,9 @@ Taneli Viljanen
 | Organization of events (2/3 hours for every event)                                                                                        | Logistics and coordination                                 |100€       |5      |   500€     |
 
 ### Total: 3240€ 
+
+## Contact
+
+Juan G.: Juan@juangomez.co
+Greoire R.
 
