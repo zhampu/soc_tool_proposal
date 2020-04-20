@@ -7,7 +7,7 @@ A Station of Commons operates as easily integrable **on-line platform** for shar
 
 Each Station depends on its own means of production, way of thinking, learning and sharing. This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The Station of Commons operates as a vibrant thinking space dedicated for tutorials, live performances and critical discussions around the practice of commoning and open technologies.
 
-[Station of Commons](http://stationofcommons.org)
+[StationofCommons.org](http://stationofcommons.org)
 
 ## What is Station of Commons platform?
 1. A agency of **artistic digital practices**, knowledge and know-how's to rethink means of production, communication and distribution using Open Source technology. The scope encompasses  sound art broadcast, formal work on-line visual content publishing, research on new forms of collaborative and social network.   
@@ -104,7 +104,7 @@ Agnes is interested in interventionist art practices and tactical media and acts
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.
 [MYOS FB page](https://www.facebook.com/pg/myosclub/)
 
-#Future plans:**
+# Future plans
 
 24th April 2020:
 
