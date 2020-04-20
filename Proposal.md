@@ -133,7 +133,7 @@ MYÖS is a Helsinki based DIY collective, party platform and co-care network for
 **Milan Tarascas**, graduated from Slade Arts School in London as sculptor and cello improviation player.
 [Milan website](https://www.milantarascas.com/)
 
-**Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
+**Jani Purhonen**, graduated from Kuva and electronic music organizer and performer.
 
 **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
 
