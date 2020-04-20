@@ -1,7 +1,7 @@
 ## Station of Commons
 ### An ongoing Collaborative initiative by Gregoire Rousseau and Juan Gomez
 
-Station of Commons  investigates **the possibilities of reappropiating technology within public space**. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?
+Station of Commons  investigates **the possibilities of reappropriating technology within public space**. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?
 
 A Station of Commons operates as easily integrable **on-line platform** for sharing local resources. Resources as commons integrate the ideas of shared data, **Open Source** practices, artefacts and real time broadcast. The sustainability of exchange, the ways they interoperate, the ecologies of interaction between the Stations of Commons produce provocations for a better collective understanding on how the Commons are in constant flux and also at risk.
 
@@ -39,7 +39,7 @@ They will also be published in a dedicated channel in Mastodon social network an
 
 **Twitter:** [twitter.com/sofcommons](https://twitter.com/sofcommons)
 
-We ask participating artists to promote the events by posting on their own social media accounts, FB, instagram...
+We ask participating artists to promote the events by posting on their own social media accounts, FB, Instagram...
 
 ## Project History / CV
 
@@ -49,21 +49,21 @@ This moment was the original spark for Station of Commons; an inquiry on the pos
 Juan Gomez:
 Juan is a media artist and interaction designer who lives and works in Geneva,Switzerland. He graduated with honours from the Haute école d’art et de design – Genève (HEAD – Geneva) and is working in the intersection between art and design. He organizes workshops on critical technology, curates panels on contemporary publishing practices and conceives interactive installations with programing tools he develops. 
 His current interest are: The materialisation of social technologies in temporal urban spaces and their potential for generating valuable discussions in urban decisions; On empowering methods for the civil society to engage with their technological tools and on inclusive ways for teaching coding in playful ways.
-http://juangomez.co
+[http://juangomez.co](http://juangomez.co)
 
 Grégoire Rousseau:
 Grégoire is artist and educator based between Helsinki and Paris. He is graduated both as Electrical Engineer and Master of Fine Arts.  His artistic work questions the role of the machine, the algorithm within the digitally controlled society, and the complexity of the neo-liberal interests in relation to public knowledge, to commons within technological space. Beside artist practice, Rousseau has been teaching in Finnish Academy of Fine Arts for ten years where he developed and implemented the first space dedicated to technology in 2013. He regularly lectures on art within the technological space; Aalto university, ENSBA Paris, French Institute in Finland, CAC Shanghai.
 In 2001, he founded electronic music record label Tuulanauhat; in 2014, he co-founded Rabrab Press with Sezgin Boynik, Journal for Political and Formal Inquiries in Arts. In 2018, he authored the publication “Learning from electric energy in the arts, Knowledge happens together”; in 2020 he initiated Station of Commons a platform of commoning practices within technological space. 
-http://rousseau.fi
+[http://rousseau.fi](http://rousseau.fi)
 
-**Station of Commons past events:**
+## Past events
 
 ### Launch of Station of Commons with live audio stream on 20 March 2020:
 
 Station of Commons was featured in YLE news among the first organization to organize live event during Korona epidemy:
 [https://yle.fi/uutiset/3-11269388](https://yle.fi/uutiset/3-11269388)
 
-**Release of first situated tutorial.**
+Release of Station of Commons situated tutorial:  **Statement**.
 
 **Samuli Tanner:**
 He is one of the leading figure of electronic music in Finland. Samuli is both talented on accoustic instrument as on digital devices. Beside alternative sound practice, his most known bands include Dubstep/Down tempo "Clouds" duo with Evil Stöö, and electro folk band "Tiuu Helinä" signed on ElCamino record label. 
@@ -104,20 +104,12 @@ Agnes is interested in interventionist art practices and tactical media and acts
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.
 https://www.facebook.com/pg/myosclub/
 
-
--- Support to Communities:
-
-We are working with:
-- Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
-- MYOS collective to host their live DJ event, and possible radio broadcast station.
-
-Upcoming:
+**Upcoming:**
 
 24th April 2020:
 
 **Ano:**
 Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus, performed from their studio in Helsinki.
-
 
 **Taneli Viljanen:**
 Taneli Viljanen is a Finnish artist working mainly with words and sound. They have previously published three tapes of music and four books of experimental fiction, performed from their studio in Rovaniemi.
@@ -129,7 +121,7 @@ Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influence
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki.
 https://www.facebook.com/pg/myosclub/
 
-Planned invited Artists:
+### Planned invited Artists:
 
 - **Svetlana Maras**, EMS studio in Radio Belgrade.
 - **Mathias Itch**, accoustic instruments player from Toulouse, France.
@@ -137,9 +129,13 @@ Planned invited Artists:
 - **Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
 - **Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
 - **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
-- **Heta Bilaletdin**, plays down tempo and lyric together with 
+- **Heta Bilaletdin**, plays elctronic down tempo and lyrics. She is part of band Olympia Splendid.
 
+### Support to Communities:
 
+We are working with:
+- Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
+- MYOS collective to host their live DJ event, and possible radio broadcast station.
 
 ## Budget
 
@@ -156,6 +152,5 @@ Planned invited Artists:
 
 ## Contact
 
-Juan G.: Juan@juangomez.co
-Greoire R.
+mail@stationofcommons.org
 
