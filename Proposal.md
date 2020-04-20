@@ -7,6 +7,8 @@ A Station of Commons operates as easily integrable **on-line platform** for shar
 
 Each Station depends on its own means of production, way of thinking, learning and sharing. This position of autonomy reflects on the original concept of Internet: the equality in the relation client to server and the openness of the algorithmic process. The Station of Commons operates as a vibrant thinking space dedicated for tutorials, live performances and critical discussions around the practice of commoning and open technologies.
 
+[Station of Commons](http://stationofcommons.org)
+
 ## What is Station of Commons platform?
 1. A agency of **artistic digital practices**, knowledge and know-how's to rethink means of production, communication and distribution using Open Source technology. The scope encompasses  sound art broadcast, formal work on-line visual content publishing, research on new forms of collaborative and social network.   
 2. A space to for **discursive forms** with actors questioning commons and technology to represent a great diversity of knowledges and practices; architects, radical educator, media theorist, hacktivist, curators, musicians and artists exploring digital forms.
@@ -102,18 +104,21 @@ Agnes is interested in interventionist art practices and tactical media and acts
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.
 [MYOS FB page](https://www.facebook.com/pg/myosclub/)
 
-**Upcoming:**
+#Future plans:**
 
 24th April 2020:
 
 **Ano:**
 Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus, performed from their studio in Helsinki.
+[Ano soundcloud](https://soundcloud.com/hisshet)
 
 **Taneli Viljanen:**
 Taneli Viljanen is a Finnish artist working mainly with words and sound. They have previously published three tapes of music and four books of experimental fiction, performed from their studio in Rovaniemi.
+[Taneli sounds](https://glisteningexamples.bandcamp.com/album/metallisilm-haaksirikko)
 
 **Francois Bianco:**
 Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influenced by late 90s techno music. His performance gathers live acts togehter with DJ sets, performed from their studio in Paris.
+[Francois Bianco website](https://www.francois-bianco.com/)
 
 **MYOS collective:**
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki.
@@ -122,14 +127,18 @@ MYÖS is a Helsinki based DIY collective, party platform and co-care network for
 ### Planned invited Artists:
 
 **Svetlana Maras**, EMS studio in Radio Belgrade.
+[svetlanamaras.com/](https:www.svetlanamaras.com/)
 
 **Mathias Itch**, accoustic instruments player from Toulouse, France.
 
-**Various sound** artist from Chronou Art Center in Shanghai
+**Various sound** artist from Chronou Art Center in Shanghai.
+[CAC Shanghai](http://www.chronusartcenter.org/en)
 
 **Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
+[Milan website](https://www.milantarascas.com/)
 
 **Jani Purhonen**, graduated from Kuva and electronic music performer/organizer.
+
 **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
 
 **Heta Bilaletdin**, plays elctronic down tempo and lyrics. She is part of band Olympia Splendid.
