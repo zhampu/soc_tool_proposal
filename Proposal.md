@@ -26,13 +26,6 @@ Each Station depends on its own means of production, way of thinking, learning a
 4. What is a critical practice of digital space in terms of labor,relation to institutions, radical political position ?
 
 
-Up coming events:
-
-24 April:
-
-Ano:
-Band 
-
 ## Communication plan
 
 Station of commons explores the agency of shared information trough an event based temporality and considers the audience as knowledgeable passenger.
@@ -122,8 +115,13 @@ We are working with:
 
 Upcpming:
 
-24th April 2020
+24th April 2020:
 
+Ano:
+Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus.
+
+
+Taneli Viljanen
 ## Budget
 
 1. Further the develop the existant web platform [Stationofcommons.org](Stationofcommons.org)
