@@ -104,7 +104,7 @@ Agnes is interested in interventionist art practices and tactical media and acts
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.
 [MYOS FB page](https://www.facebook.com/pg/myosclub/)
 
-# Future plans
+## Future plans
 
 24th April 2020:
 
@@ -131,7 +131,7 @@ MYÖS is a Helsinki based DIY collective, party platform and co-care network for
 
 **Mathias Itch**, accoustic instruments player from Toulouse, France.
 
-**Various sound** artist from Chronou Art Center in Shanghai.
+**Various sound** artist from Chronous Art Center in Shanghai.
 [CAC Shanghai](http://www.chronusartcenter.org/en)
 
 **Milan Tarascas**, graduated from Slade School in London as sculptor and cello improviation player.
