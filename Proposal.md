@@ -1,4 +1,4 @@
-# Station of Commons
+## Station of Commons
 ### An ongoing Collaborative initiative by Gregoire Rousseau and Juan Gomez
 
 Station of Commons  investigates **the possibilities of reappropiating technology within public space**. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?
@@ -18,21 +18,24 @@ Each Station depends on its own means of production, way of thinking, learning a
 1. A reappropriation is never total, otherwise it would be a mere copy. The new production must modify, détourne, work with the subject matter. 
 2. The research on material or equipment was simple as we use RaspberryPi with various Linux distribution, free and open source software.
 3. The visual narratives of tutorials as ways of sharing contextualized practical and theoretical concepts.
-4. The gentrification of software production and their relationship to contemporary architectural narratives.
+4. The "gentrification" of software production and their relationship to contemporary architectural narratives.
 
 ## Research Questions
 1. How to think a temporally multi-dimensional space ? 
 2. How to define the precise subject matter within technological space taken into account the different temporalities ?
-3. How to frame the material requirement of the technological space ?
 4. What is a critical practice of digital space in terms of labor, in terms of relation to institutions, in terms of radical political position ?
-5. And when communication over digital networks are permanently available, or event based in relation to art context ?
-6. What implies temporality in Commoning, specifically when communities operate on-line?
+
+
 
 
 ## Communication plan
 
 Station of commons explores the agency of shared information trough an event based temporality and considers the audience as knowledgeable passenger.
-Station of commons will communicate on its live broadcasts, 2 weeks before their streaming and release tutorials on the same day of their publishing.They will be posted in a E-mail listing of our own and public ones such Algolit, Spectre, NetTime. 
+Station of commons will communicate on its live broadcasts, 2 weeks before their streaming and release tutorials on the same day of their publishing.They will be posted in following E-mail listings:
+- our own international academic and profesional networks,
+- Algolit, 
+- Spectre, 
+- NetTime. 
 
 They will also be published in a dedicated channel in Mastodon social network and Twitter and from there re-posted in the personal social networks of our peers.
 
@@ -40,7 +43,7 @@ Mastodon: stationofcommons@mastodon.social
 
 Twitter: https://twitter.com/sofcommons
 
-
+We ask participating artists to promote the events by posting on their own social media accounts, FB, instagram...
 
 ## Project History / CV
 
@@ -109,7 +112,7 @@ https://www.facebook.com/pg/myosclub/
 -- Support to Communities:
 
 We are working with:
-- Museum of Impossible forms to implement a the radio broadcast station. https://museumofimpossibleforms.org/
+- Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
 - MYOS collective to host their live DJ event, and possible radio broadcast station.
 
 
@@ -131,8 +134,4 @@ We are working with:
 | Organization of events (2/3 hours for every event)                                                                                        | Logistics and coordination                                 |100€       |5      |   500€     |
 
 ### Total: 3240€ 
-## images example
-
-![image_caption](images/1.JPG)
-*a guy in grece playing hallodrom.*
 
