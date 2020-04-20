@@ -81,50 +81,51 @@ Marjatan puisto is Samuli Kytö solo project. Samuli is very active in Helsinki 
 Release of Station of Commons situated tutorial:  **Closing Spaces, opening new ones**.
 
 **Konstantinos Chinis(GR)**
-Performed from Athens, Konstaantinos is professional cello player. He performed on electro acoustic string instrument Halldorophone. halldorophones  is designed by 
-Halldór Úlfarsson, his instrument is used in Joker movie sound track and other profesional sounf track.[halldor.gr](https://halldor.gr/) [halldorophone.info](https://www.halldorophone.info)
+Performed from Athens, Konstaantinos is professional cello player. He performed on electro acoustic string instrument Halldorophone. Halldorophone is designed by Halldór Úlfarsson, his instrument is used in Joker movie sound track and other profesional sounf tracks.[halldor.gr](https://halldor.gr/) [halldorophone.info](https://www.halldorophone.info)
 
-**Viktor Toikkanen(FIN):**[yle.fi/uutiset/3-10364007](https://yle.fi/uutiset/3-10364007)
+**Viktor Toikkanen(FIN):** Description of his work on YLE: [yle.fi/uutiset/3-10364007](https://yle.fi/uutiset/3-10364007)
 
  **Sacrifice Seul(FR):**
- Charlie Aubry performed form his studio in Paris:[sacrificeseul.com](https://www.sacrificeseul.com/)
+ Charlie Aubry performed form his studio in Paris: [sacrificeseul.com](https://www.sacrificeseul.com/)
  
  **Agnès Pe(SP)**
 Agnes performed from her studio in Madrid. 
-Agnes is interested in interventionist art practices and tactical media and acts trained in art and in disciplines outside the field of art (Interdisciplinary practices. She is a cybermedia "dumper" promoting an approach that challenges traditional genres and the limits of the gallery/museum context. She was soon influencen by Velimir Khlebnikov and his radio theories. She is interested in sound theories and their anthropological implications, specially in the internet area.[https://es.wikipedia.org/wiki/Agnes_pe._Tomas](https://es.wikipedia.org/wiki/Agn%C3%A8s_Pe._Tom%C3%A0s)
+Agnes is interested in interventionist art practices and tactical media and acts trained in art and in disciplines outside the field of art (Interdisciplinary practices). [https://es.wikipedia.org/wiki/Agnes_pe._Tomas](https://es.wikipedia.org/wiki/Agn%C3%A8s_Pe._Tom%C3%A0s)
   
  **MYÖS collective(FIN):**   
-MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.[MYOS FB page](https://www.facebook.com/pg/myosclub/)
+MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. [MYOS FB page](https://www.facebook.com/pg/myosclub/)
 
 ## Future plans
 
 24th April 2020:
 
 **Ano:**
-Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus, performed from their studio in Helsinki.[Ano soundcloud](https://soundcloud.com/hisshet)
+Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus, performed from their studio in Helsinki. [Ano soundcloud](https://soundcloud.com/hisshet)
 
 **Taneli Viljanen:**
-Taneli Viljanen is a Finnish artist working mainly with words and sound. They have previously published three tapes of music and four books of experimental fiction, performed from their studio in Rovaniemi.[Taneli sounds](https://glisteningexamples.bandcamp.com/album/metallisilm-haaksirikko)
+Taneli Viljanen is a Finnish artist working mainly with words and sound. They have previously published three tapes of music and four books of experimental fiction, performed from their studio in Rovaniemi. [Taneli sounds](https://glisteningexamples.bandcamp.com/album/metallisilm-haaksirikko)
 
 **Francois Bianco:**
-Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influenced by late 90s techno music. His performance gathers live acts togehter with DJ sets, performed from their studio in Paris.[Francois Bianco website](https://www.francois-bianco.com/)
+Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influenced by late 90s techno music. His performance gathers live acts togehter with DJ sets, performed from their studio in Paris. [Francois Bianco website](https://www.francois-bianco.com/)
 
-Station of Commons is invited to:
-- Theatre des Expositions in Ecole des Beaux Arts de Paris 
-- Novembre Numerique, event organized by Institut Francais in Finland.
-- Manifesta 
+Station of Commons is invited for workshops and panel talks to:
+
+**Theatre des Expositions in Ecole des Beaux Arts de Paris, Autumn 2020**
+
+**Novembre Numerique, event organized by Institut Francais in Finland.**
+
+**Manifesta 2020 in Marseille, France.**
 
 
 **MYOS collective:**
-MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki.
-[facebook.com/pg/myosclub](https://www.facebook.com/pg/myosclub/)
+MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki. [facebook.com/pg/myosclub](https://www.facebook.com/pg/myosclub/)
 
 ### Planned invited Artists:
 
 **Svetlana Maras**, EMS studio in Radio Belgrade.
 [svetlanamaras.com/](https:www.svetlanamaras.com/)
 
-**Mathias Itch**, accoustic instruments player from Toulouse, France.
+**Mathias Itch**, electronic and accoustic instruments player from Toulouse, France.
 
 **Various sound** artist from Chronous Art Center in Shanghai.
 [CAC Shanghai](http://www.chronusartcenter.org/en)
@@ -136,7 +137,7 @@ MYÖS is a Helsinki based DIY collective, party platform and co-care network for
 
 **Monika Czyzyk**, graduated from Kuva and interested in sound recording practices.
 
-**Heta Bilaletdin**, plays elctronic down tempo and sing her lyrics. She is part of band Olympia Splendid.
+**Heta Bilaletdin**, plays electronic down tempo and sings her lyrics. She is part of band Olympia Splendid.
 
 ### Support to Communities:
 
