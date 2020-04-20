@@ -19,11 +19,9 @@ Each Station depends on its own means of production, way of thinking, learning a
 2. The research on material to use RaspberryPi with various Linux distribution, and open source software.
 3. The visual narratives of tutorials as ways of sharing contextualized practical and theoretical concepts.
 4. The "gentrification" of software production and their relationship to contemporary architectural narratives.
-
-## Research Questions
-1. How to think a temporally multi-dimensional space ? 
-2. How to define the precise subject matter within technological space taken into account the different temporalities ?
-4. What is a critical practice of digital space in terms of labor,relation to institutions, radical political position ?
+5. How to think a temporally multi-dimensional space ? 
+6. How to define the precise subject matter within technological space taken into account the different temporalities ?
+7. What is a critical practice of digital space in terms of labor, relation to institutions, radical political position ?
 
 
 ## Communication plan
