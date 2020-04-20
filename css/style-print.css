@@ -54,6 +54,10 @@
             content: counter(page);
             width: 40px;
         }
+        @bottom-center {
+            content: "Together Alone - open call";
+            text-align: center;
+        }
     }
 
 
@@ -102,6 +106,7 @@
     h3 {
         font-family: 'Till';
         font-weight: normal;
+        font-size: 1.5rem;
 
     }
 
@@ -114,7 +119,7 @@
     #main {
         list-style: decimal;
         break-after: page;
-        font: ;
+        font-size: 2em;
     }
 
 
@@ -149,6 +154,9 @@
         text-align: left;
     }
 
+    li {
+        margin-bottom: 15px;
+    }
 
 }
 
