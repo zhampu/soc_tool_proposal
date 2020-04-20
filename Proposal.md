@@ -124,12 +124,6 @@ Experimantal electronic band consisting of Ville-Matti Koskiniemi and Pietus.
 Taneli Viljanen
 ## Budget
 
-1. Further the develop the existant web platform [Stationofcommons.org](Stationofcommons.org)
-2. Design and develop a page of tutorials for installing open source tools.
-3. Electronic design development on the hardware connectivity and interactivity with audio server. 
-4. Support for other communities to implement their own Station of commons server.
-5. A 50€ fee for contributors and each performers. 
-
 | Goal                                                                                            | Object                                         | Price | units | total  |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------|-------|-------|--------|
 | Further the develop the existant web platform (estimated 10/15 hours)                                                   | Coding and server maintainance                 | 500€  | 1     | 500€   |
