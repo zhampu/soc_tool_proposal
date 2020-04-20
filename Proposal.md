@@ -137,8 +137,10 @@ https://www.facebook.com/pg/myosclub/
 ### Support to Communities:
 
 We are working with:
-- Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
-- MYOS collective to host their live DJ event, and possible radio broadcast station.
+
+Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
+
+MYOS collective to host their live DJ event, and possible radio broadcast station.
 
 ## Budget
 
