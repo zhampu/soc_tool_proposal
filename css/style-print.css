@@ -176,10 +176,15 @@
     }
 
     li {
-        margin-bottom: 15px;
+        margin-bottom: 8px;
     }
 
     p strong {
+        page-break-inside: avoid;
+
+    }
+
+    p {
         page-break-inside: avoid;
 
     }
