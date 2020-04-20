@@ -1,5 +1,5 @@
 ## Station of Commons
-### An ongoing Collaborative initiative by Gregoire Rousseau and Juan Gomez
+### An ongoing Collaborative initiative by Gregoire Rousseau/Helsinki and Juan Gomez/Geneva
 
 Station of Commons  investigates **the possibilities of reappropriating technology within public space**. The point of departure of the research questions both centralized knowledge and data centers operated by major organizations and its underlying social implications. What are the interdependences between the users, the providers, the services, the technology and related knowledge at work? And how to rethink another model of shared empowerment situated in time and space unique to its agent, or communities?
 
@@ -83,24 +83,24 @@ Release of Station of Commons situated tutorial:  **Closing Spaces, opening new 
 Performed from Athens, Konstaantinos is professional cello player. He performed on electro acoustic string instrument Halldorophone. halldorophones  is designed by 
 Halldór Úlfarsson, his instrument is used in Joker movie sound track and other profesional sounf track.
 
-https://halldor.gr/
-https://www.halldorophone.info
+[halldor.gr](https://halldor.gr/)
+[halldorophone.info](https://www.halldorophone.info)
 
 **Viktor Toikkanen(FIN):**
-https://yle.fi/uutiset/3-10364007
+[yle.fi/uutiset/3-10364007](https://yle.fi/uutiset/3-10364007)
 
  **Sacrifice Seul(FR):**
  Charlie Aubry performed form his studio in Paris:
- https://www.sacrificeseul.com/
+ [sacrificeseul.com](https://www.sacrificeseul.com/)
  
  **Agnès Pe(SP)**
 Agnes performed from her studio in Madrid. 
 Agnes is interested in interventionist art practices and tactical media and acts trained in art and in disciplines outside the field of art (Interdisciplinary practices. She is a cybermedia "dumper" promoting an approach that challenges traditional genres and the limits of the gallery/museum context. She was soon influencen by Velimir Khlebnikov and his radio theories. She is interested in sound theories and their anthropological implications, specially in the internet area.
-  https://es.wikipedia.org/wiki/Agn%C3%A8s_Pe._Tom%C3%A0s
+[https://es.wikipedia.org/wiki/Agnes_pe._Tomas](https://es.wikipedia.org/wiki/Agn%C3%A8s_Pe._Tom%C3%A0s)
   
  **MYÖS collective(FIN):**   
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene.
-https://www.facebook.com/pg/myosclub/
+[MYOS FB page](https://www.facebook.com/pg/myosclub/)
 
 **Upcoming:**
 
@@ -117,7 +117,7 @@ Graduated as sculptor from Ecole des Beaux Arts de Paris, his music is influence
 
 **MYOS collective:**
 MYÖS is a Helsinki based DIY collective, party platform and co-care network for genre-fluid electronic music DJs, producers, organizers, party lovers and allies of currently underrepresented actors in the Helsinki club scene. Performed from their studio in Helsinki.
-https://www.facebook.com/pg/myosclub/
+[facebook.com/pg/myosclub](https://www.facebook.com/pg/myosclub/)
 
 ### Planned invited Artists:
 
@@ -135,8 +135,6 @@ https://www.facebook.com/pg/myosclub/
 **Heta Bilaletdin**, plays elctronic down tempo and lyrics. She is part of band Olympia Splendid.
 
 ### Support to Communities:
-
-We are working with:
 
 Museum of Impossible forms to implement a the radio broadcast station. [museumofimpossibleforms.org](https://museumofimpossibleforms.org/)
 
@@ -156,6 +154,8 @@ MYOS collective to host their live DJ event, and possible radio broadcast statio
 ### Total: 3240€ 
 
 ## Contact
+
++358 50 33 65 832 Gregoire
 
 mail@stationofcommons.org
 
