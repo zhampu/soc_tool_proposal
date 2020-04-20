@@ -39,7 +39,7 @@ They will also be published in a dedicated channel in Mastodon social network an
 
 We ask participating artists to promote the events by posting on their own social media accounts, FB, Instagram...
 
-## Project History / CV
+## Project History & CV
 
 Gregoire and Juan met during the UdK summer school 2019 in Berlin where the idea of Commons was very much brought forward in the context of architecture. We had the chance to exchange and discuss thoughts on the subject matter together with Stavros Stavrides (Architect, activist, and Professor at the School of Architecture, National Technical University of Athens, Greece) both within a collective and later on at the personal relation level. We learned that concrete social realities manifests and unfold their potentialities within their spaces of activities. Political subjectivation operates together with spatial transformations, and the practice of Commoning as means of reappropiation. As the discussion developed,  we could not help thinking: what if the space would not be situated in the framework of architecture but in the context of technology within society, what if commoning technology would operate as a mean of emancipation by reappropriation of the algorithm ?
 This moment was the original spark for Station of Commons; an inquiry on the possibilities of technology and its reappropiation within public space
