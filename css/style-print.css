@@ -107,11 +107,16 @@
         font-family: 'Till';
         font-weight: normal;
         font-size: 1.5rem;
+        margin-top: 0;
 
     }
 
     .content-article {
 
+
+    }
+
+    p, li {
         width: 147mm;
 
     }
